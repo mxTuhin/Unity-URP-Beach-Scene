@@ -1,0 +1,20 @@
+Library/*
+<<<<<<< HEAD
+Build/*
+Temp/*
+/[Ll]ogs/
+=======
+Build/*
+Recordings/*
+.idea/*
+Devlogs/*
+*.zip
+Assets/Dark City 2/*
+Assets/HighQTextures/*
+Linux/*
+macOS/*
+macOS.app/*
+Assets/#Objects - Imported/Env-Assets/*
+WebGL/
+
+>>>>>>> ee5ce8724f561b621057823fb5563afd850b7d3f
